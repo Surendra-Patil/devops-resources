@@ -12,11 +12,19 @@ Name | Comments
 [Kubernetes Deployment Tutorial](https://devopscube.com/kubernetes-deployment-tutorial) |
 [Katacoda](https://www.katacoda.com/courses/kubernetes) | Learn Kubernetes using Interactive Browser-Based Scenarios
 
+
 ## Kubernetes Deep Dive
 
 Name | Comments
 :------ |:--------:
 [Kubernetes Networking](https://github.com/nleiva/kubernetes-networking-links) | Kubernetes Networking Resources
+[Liveness and Readiness Probes](https://www.openshift.com/blog/liveness-and-readiness-probes) |
+
+## Kubernetes Deep Dive
+
+Name | Comments
+:------ |:--------:
+[Kubernetes Troubleshooting Visual Guide](https://learnk8s.io/troubleshooting-deployments?fbclid=IwAR2k6ziNfhBe--CKoYP6qh5_lHYM7_kruDjc1EcyrpgyV_tKJzQlwiuA_Jk) |
 
 ## Misc
 
@@ -38,46 +46,25 @@ Name | Comments
 Name | Comments
 :------ |:--------:
 [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) | "Chaos Engineering Tool for Kubernetes and Openshift"
+[Kubesort](https://github.com/AATHITH/kubesort) | "kubesort helps you sort the results from kubectl get in an easy way"
 [IngressMonitorController](https://github.com/stakater/IngressMonitorController) | "A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices"
+
+## Certificates
+
+Name | Comments
+:------ |:--------:
+[CKAD-Practice-Questions](https://github.com/bbachi/CKAD-Practice-Questions) | "a consolidated list for CKAD practice questions"
 
 ## CheatSheet
 
 ### Minikube
 
-Minikube version
-
-```
-minikube version
-```
-
-Start cluster
-
-```
-minikube start
-```
-
-Delete cluster
-
-```
-minikube delete
-```
+* Minikube version: `minikube version`
+* Start cluster: `minikube start`
+* Delete cluster: `minikube delete`
 
 ### Kubernetes
 
-Cluster version
-
-```
-kubectl version
-```
-
-Cluster information
-
-```
-kubectl cluster-info
-```
-
-List nodes
-
-```
-kubectl get nodes
-```
+* Cluster version: `kubectl version`
+* Cluster information: `kubectl cluster-info`
+* List nodes: `kubectl get nodes`

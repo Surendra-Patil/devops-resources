@@ -1,22 +1,26 @@
 # Python
 
-## Learning Python
+## Learning Python (Courses)
 
 Name | Description
 :------|:------:
-[HackerRank](https://www.hackerrank.com) | Python challenges
-[LeetCode](https://leetcode.com) | Python challenges
-[Exercism](https://exercism.io) | Python challenges
+[Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro) | Free, Udemy
+[Python for Beginner](https://www.udemy.com/course/python-hackcc) | Free, Udemy
+[Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw&feature=emb_logo) | Free, freeCodeCamp
+[Learn Python from Scratch](https://www.educative.io/courses/learn-python-from-scratch) | Free, educative.io
+
+## Learning Python (Tutorials and Interactive platforms)
+
+Name | Description
+:------|:------:
+[HackerRank](https://www.hackerrank.com) | Python challenges/exercises
+[LeetCode](https://leetcode.com) | Python challenges/exercises
+[Exercism](https://exercism.io) | Python challenges/exercises
 [py4e](https://www.py4e.com) | Python lessons and materials
 [W3 Python](https://www.w3schools.com/python) | Python tutorial
 [Mode Python Tutorial](https://mode.com/python-tutorial) | Python Tutorial
 [Khan Academy](https://www.khanacademy.org) | Python courses and lessons
-
-## Resources
-
-Name | Description
-:------|:------:
-[pippython](https://pippython.com) | I don't know what it is exactly but it's great
+[Python resources for everybody](https://learnbyexample.github.io/py_resources) | Python written resources
 
 ## Modules
 
